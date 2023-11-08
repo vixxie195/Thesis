@@ -22,4 +22,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: vixxie195/course-work:latest
+          tags: viktoriya127/course-work:latest
